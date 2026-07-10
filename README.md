@@ -28,4 +28,4 @@
 
 ### 📬 ¡Conectemos!
 
-[Tu LinkedIn](enlace_a_tu_linkedin) | [Tu Portfolio](enlace_a_tu_portfolio_si_tenes)
+[Tu LinkedIn][(enlace_a_tu_linkedin)](https://www.linkedin.com/in/yamila-platero-b0519723a/) | [Tu Portfolio](enlace_a_tu_portfolio_si_tenes)
