@@ -1,4 +1,4 @@
-# ¡Hola! Soy Yamila 👋
+# Soy Yami 👋
 
 💻 **Futura Desarrolladora FullStack** enfocada en construir soluciones eficientes y escalables. Actualmente adquiriendo conocimientos sobre Testing, Arquitectura de Software y Deploy.
 
