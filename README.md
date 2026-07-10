@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Yamila 👋
 
-<!--
-**YamilaPlatero/YamilaPlatero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Futura Desarrolladora FullStack** enfocada en construir soluciones eficientes y escalables. Actualmente devorando conocimientos sobre Testing, Arquitectura de Software y Deploy.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías y Herramientas
+
+- **Backend:** Node.js, Express
+- **Bases de Datos:** PostgreSQL
+- **APIs:** REST APIs
+- **Próximamente:** Testing & Arquitectura avanzada 🛠️
+
+---
+
+### 📈 Un poco sobre mí
+
+- 🌱 Actualmente perfeccionando mis habilidades en el desarrollo Backend.
+- 🤝 Dispuesta a colaborar en proyectos de código abierto o ideas interesantes.
+- ⚡ Dato curioso: ¡Me encanta la lógica detrás del código y resolver problemas complejos!
+
+---
+
+### 📬 ¡Conectemos!
+
+[Tu LinkedIn](enlace_a_tu_linkedin) | [Tu Portfolio](enlace_a_tu_portfolio_si_tenes)
