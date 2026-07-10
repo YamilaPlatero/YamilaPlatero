@@ -1,6 +1,6 @@
 # ¡Hola! Soy Yamila 👋
 
-💻 **Futura Desarrolladora FullStack** enfocada en construir soluciones eficientes y escalables. Actualmente devorando conocimientos sobre Testing, Arquitectura de Software y Deploy.
+💻 **Futura Desarrolladora FullStack** enfocada en construir soluciones eficientes y escalables. Actualmente adquiriendo conocimientos sobre Testing, Arquitectura de Software y Deploy.
 
 ---
 
